@@ -40,26 +40,27 @@ String authorizedUIDs[] = {
 };
 
 ## 📊 Geri Bildirim
-Yeşil LED: Kart tanındı, kapı açıldı ✅
-Kırmızı LED: Yetkisiz kart ❌
-Seri Monitör: Kart UID bilgisi loglanır
+- Yeşil LED: Kart tanındı, kapı açıldı ✅
+- Kırmızı LED: Yetkisiz kart ❌
+- Seri Monitör: Kart UID bilgisi loglanır
 
 ## 🖼️ Donanım Bağlantı Şeması
-Aşağıdaki diyagramda Arduino UNO – RC522 RFID – Servo Motor bağlantıları gösterilmektedir:
+- Aşağıdaki diyagramda Arduino UNO – RC522 RFID – Servo Motor bağlantıları gösterilmektedir:
+
 📌 Not: assets/arduino_rfid_schematic.png dosyasını kendin oluşturup bu dizine eklemelisin. Önerilen araç: Fritzing
 
 ## 🔮 Geliştirme Fikirleri
-LCD/OLED ekran ekleyerek giriş bilgisi gösterme
-ESP8266/ESP32 ile Wi-Fi üzerinden uzaktan kontrol
-MQTT ile IoT entegrasyonu
-Web paneli veya mobil uygulama ile kart yönetimi
+- LCD/OLED ekran ekleyerek giriş bilgisi gösterme
+- ESP8266/ESP32 ile Wi-Fi üzerinden uzaktan kontrol
+- MQTT ile IoT entegrasyonu
+- Web paneli veya mobil uygulama ile kart yönetimi
 
 ## 🤝 Katkıda Bulunma
 Katkı yapmak istersen:
-  Bu repoyu fork et
-  Yeni bir özellik için branch aç
-  Değişikliklerini commit et
-  Pull Request gönder 🎉
+ -  Bu repoyu fork et
+ -  Yeni bir özellik için branch aç
+ -  Değişikliklerini commit et
+ -  Pull Request gönder 🎉
 
 ## 📜 Lisans
 MIT License © 2025 Dilara Çelik
