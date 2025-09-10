@@ -16,6 +16,9 @@ Bu proje, **RFID sensörü** kullanarak kapı kartı okuyan ve servo motor arac�
 - LED (opsiyonel – görsel bildirim için)
 - Breadboard ve jumper kablolar
 
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6cc76aaa-d81a-44dd-bf9a-d58918f29b0b" />
+
+
 ## 📥 Kurulum
 1. Repoyu klonla:
    ```bash
@@ -64,7 +67,6 @@ Katkı yapmak istersen:
 
 ## 📜 Lisans
 MIT License © 2025 Dilara Çelik
-
 
 
 
